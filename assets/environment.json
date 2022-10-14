@@ -1,0 +1,12 @@
+{
+    "jwt": {
+        "accessToken": {
+            "secret": "SGT-FINANCE-2022",
+            "expiresIn": "3000s"
+        },
+        "refreshToken": {
+            "secret": "SGT-FINANCE-2022-REFRESH-TOKEN",
+            "expiresIn": "86400s"
+        }
+    }
+}
